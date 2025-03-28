@@ -1,7 +1,10 @@
 # Employee Todo App
 
 ## Live Demo
-[https://employee-todo-seven.vercel.app/t](https://employee-todo-seven.vercel.app/)
+[Click here to check the live project](https://employee-todo-seven.vercel.app/)
+
+## Preview
+![Employee Todo App Preview](C:\Users\lenovo\Pictures\Screenshots\Screenshot (25).png)
 
 ## Overview
 The **Employee Todo App** is a web-based task management system that allows employees to create, update, and manage their daily tasks efficiently. This project is built with modern web technologies to ensure a seamless user experience.
@@ -13,7 +16,9 @@ The **Employee Todo App** is a web-based task management system that allows empl
 - User-friendly interface
 
 ## Technologies Used
-- **Frontend:** React.js and Tailwind 
+- **Frontend:** React.js
+- **Backend:** Node.js (if applicable)
+- **Database:** Firebase / MongoDB (if applicable)
 - **Hosting:** Vercel
 
 ## Installation
@@ -47,8 +52,9 @@ This project is deployed on **Vercel**. To deploy your own version, follow these
 ## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request.
 
+## License
+This project is licensed under the **MIT License**.
 
 ---
-**Author:** Divyanshi Gupta  
+**Author:** Divyanshi Gupta 
 **Contact:** guptadivyanshi756@gmail.com
-
