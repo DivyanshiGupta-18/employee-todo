@@ -4,7 +4,7 @@
 [Click here to check the live project](https://employee-todo-seven.vercel.app/)
 
 ## Preview
-![Employee Todo App Preview](C:\Users\lenovo\OneDrive\Desktop\React js\EmployWise Assignment\public)
+![Employee Todo App Preview]("screencapture-employee-todo-seven-vercel-app-users-2025-03-28-19_27_44.png")
 )
 
 ## Overview
