@@ -13,9 +13,7 @@ The **Employee Todo App** is a web-based task management system that allows empl
 - User-friendly interface
 
 ## Technologies Used
-- **Frontend:** React.js
-- **Backend:** Node.js (if applicable)
-- **Database:** Firebase / MongoDB (if applicable)
+- **Frontend:** React.js and Tailwind 
 - **Hosting:** Vercel
 
 ## Installation
