@@ -4,7 +4,7 @@
 [Click here to check the live project](https://employee-todo-seven.vercel.app/)
 
 ## Preview
-![Employee Todo App Preview](![image](https://github.com/user-attachments/assets/b7708ef4-e3dd-4db5-9390-34a7d5c19c23)
+![Employee Todo App Preview](C:\Users\lenovo\OneDrive\Desktop\React js\EmployWise Assignment\public)
 )
 
 ## Overview
