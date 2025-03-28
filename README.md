@@ -5,7 +5,6 @@
 
 ## Preview
 ![Employee Todo App Preview]("screencapture-employee-todo-seven-vercel-app-users-2025-03-28-19_27_44.png")
-)
 
 ## Overview
 The **Employee Todo App** is a web-based task management system that allows employees to create, update, and manage their daily tasks efficiently. This project is built with modern web technologies to ensure a seamless user experience.
