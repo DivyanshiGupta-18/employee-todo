@@ -4,7 +4,7 @@
 [Click here to check the live project](https://employee-todo-seven.vercel.app/)
 
 ## Preview
-![Employee Todo App Preview](![screencapture-employee-todo-seven-vercel-app-users-2025-03-28-19_27_44](https://github.com/user-attachments/assets/6377d28e-8c24-4d10-98db-7c19878d66a6)
+![Employee Todo App Preview](https://github.com/DivyanshiGupta-18/employee-todo/blob/main/public/screencapture-employee-todo-seven-vercel-app-users-2025-03-28-19_27_44.png
 )
 
 ## Overview
