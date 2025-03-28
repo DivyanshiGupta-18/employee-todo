@@ -4,7 +4,8 @@
 [Click here to check the live project](https://employee-todo-seven.vercel.app/)
 
 ## Preview
-![Employee Todo App Preview](C:\Users\lenovo\Pictures\Screenshots\Screenshot (25).png)
+![Employee Todo App Preview](![image](https://github.com/user-attachments/assets/b7708ef4-e3dd-4db5-9390-34a7d5c19c23)
+)
 
 ## Overview
 The **Employee Todo App** is a web-based task management system that allows employees to create, update, and manage their daily tasks efficiently. This project is built with modern web technologies to ensure a seamless user experience.
