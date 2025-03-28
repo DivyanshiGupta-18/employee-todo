@@ -1,12 +1,56 @@
-# React + Vite
+# Employee Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
+[https://employee-todo-seven.vercel.app/t](https://employee-todo-seven.vercel.app/)
 
-Currently, two official plugins are available:
+## Overview
+The **Employee Todo App** is a web-based task management system that allows employees to create, update, and manage their daily tasks efficiently. This project is built with modern web technologies to ensure a seamless user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Responsive design for mobile and desktop
+- User-friendly interface
 
-## Expanding the ESLint configuration
+## Technologies Used
+- **Frontend:** React.js
+- **Backend:** Node.js (if applicable)
+- **Database:** Firebase / MongoDB (if applicable)
+- **Hosting:** Vercel
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-repo-url.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd employee-todo-app
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Deployment
+This project is deployed on **Vercel**. To deploy your own version, follow these steps:
+1. Push your code to a GitHub repository.
+2. Connect your repository to Vercel.
+3. Configure your build settings (if required).
+4. Deploy and access your live site at [https://employee-todo-seven.vercel.app/](https://employee-todo-seven.vercel.app/).
+
+## Contributing
+If you'd like to contribute, feel free to fork the repository and submit a pull request.
+
+
+---
+**Author:** Divyanshi Gupta  
+**Contact:** guptadivyanshi756@gmail.com
+
